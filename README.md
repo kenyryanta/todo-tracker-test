@@ -65,11 +65,13 @@ Frontend berjalan di **Port 3000**.
 Berikut adalah tampilan antarmuka aplikasi Todo Tracker:
 
 ### Daftar Tugas (Todo List)
-./frontend/public/Cuplikan layar 2025-11-13 073507.png
-### Menambah dan Memperbarui Tugas
+![Cuplikan Todo List](./frontend/public/gambar2.png)
 
+### Menambahkan Tudo List
+![Cuplikan Todo List](./frontend/public/gambar1.png)
 
 ### Penghapusan Tugas
+![Cuplikan Todo List](./frontend/public/gambar3.png)
 
 
 ---
